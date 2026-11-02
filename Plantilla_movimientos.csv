@@ -1,0 +1,9 @@
+fecha,importe,tipo,cuenta,comercio,categoria,nota
+2026-10-01,-950.00,gasto,Banco principal,Alquiler piso,Vivienda,Domiciliado
+2026-10-02,2400.00,ingreso,Banco principal,Empresa S.L. (nómina),Sueldo,Nómina 09/2026
+2026-10-03,-64.30,gasto,Banco principal,Mercadona,Supermercado,
+2026-10-05,-12.99,gasto,Tarjeta,Netflix,Suscripciones,
+2026-10-08,-38.50,gasto,Tarjeta,"Bar Lola, S.L.",Cafés y restaurantes,Cena con amigos
+2026-10-12,-45.00,gasto,Banco principal,Gasolinera Repsol,Transporte,
+2026-10-15,25.00,ingreso,Banco principal,Devolución Zara,Compras,Es una devolución
+2026-10-20,-60.00,gasto,Efectivo,Regalo cumpleaños,Otros,Para Ana
